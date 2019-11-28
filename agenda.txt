@@ -37,9 +37,9 @@ Ynon Perek
 
 Agenda:
 
-1. Hello Async World
+√ 1. Hello Async World
 
-2. Async and Synchronization
+√ 2. Async and Synchronization
 
 3. Tasks
 
