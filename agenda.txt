@@ -1,0 +1,18 @@
+Hi ;)
+
+Python AsyncIO Webinar
+Ynon Perek
+
+Agenda:
+
+1. Hello Async World
+
+2. Async and Synchronization
+
+3. Tasks
+
+4. Gather
+
+5. Q & A
+
+
