@@ -15,5 +15,7 @@ async def main():
     for t in [t1, t2, t3]:
         await t
 
+
+
 logging.basicConfig(level=logging.DEBUG)
 asyncio.run(main(), debug=True)
